@@ -10,8 +10,8 @@
 
      { "id": 1, "body": "Excellent course", "postId": 1 }
   ],
-  "profile": { "name": "Yomi" }
-},
+  "profile": { "name": "Yomi" },
+
 "address": {
 "primary": [
 {
